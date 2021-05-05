@@ -60,6 +60,8 @@ With the problem statement we will try to predict which trap the WNV will presen
 
 4. spray.csv - contain date which spray the pesticide and latitude / longitude
 
+| Feature           | Type         | Description                                |
+| :---------------: | :----------: | -----------------------------------------: |
 |Date	              | object	     |  Date of spray                             |
 |Time               | object        |  Time of spray                             |
 |Latitude	          | float64	     |  Latitude of spray                         |
